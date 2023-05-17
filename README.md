@@ -1,13 +1,13 @@
 # Hi, I'm Andrés 👋🏻🧑🏻‍💻
 
-<img src="https://i.postimg.cc/BbG0HZ2F/Banner.png" alt="banner that says Andrés Vega DEV & skills">
+<img src="https://slotchine.com/Github/Banner.png" alt="banner that says Andrés Vega DEV & skills">
 
 > *I'm a Systems Engineering student currently working
 > as a Front-end developer and web designer, passionate 
 > about technology and learning even more 
 > about development. 💻🙌🚀*
 
-![divider]([https://i.postimg.cc/D0pmvTHx/readme-divider.png](https://i.postimg.cc/sfQXd1nV/Divider-Line.png))
+![divider](https://slotchine.com/Github/readme-divider.png)
 
 ### Find me around the web 🌎:
 
@@ -23,4 +23,4 @@ const andresDEV = {
     gas: [☕, 🏋🏽‍♂️, 🧑🏻‍💻, 📚 ]
 }
 ```
-![divider]([https://i.postimg.cc/D0pmvTHx/readme-divider.png](https://i.postimg.cc/sfQXd1nV/Divider-Line.png))
+![divider](https://slotchine.com/Github/readme-divider.png)
