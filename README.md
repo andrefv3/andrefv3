@@ -7,7 +7,7 @@
 > about technology and learning even more 
 > about development. 💻🙌🚀*
 
-![divider](https://slotchine.com/static/Github/readme-divider.png)
+![divider](https://slotchine.com/static/Github/Divider-line.png)
 
 ### Find me around the web 🌎:
 
@@ -23,4 +23,4 @@ const andresDEV = {
     gas: [☕, 🏋🏽‍♂️, 🧑🏻‍💻, 📚 ]
 }
 ```
-![divider](https://slotchine.com/static/Github/readme-divider.png)
+![divider](https://slotchine.com/static/Github/Divider-Line.png)
