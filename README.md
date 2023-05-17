@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi, I'm Andrés 👋🏻🧑🏻‍💻
 
-<!--
-**andrefv3/andrefv3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://i.postimg.cc/BbG0HZ2F/Banner.png" alt="banner that says Andrés Vega DEV & skills">
 
-Here are some ideas to get you started:
+> *I'm a Systems Engineering student currently working
+> as a Front-end developer and web designer, passionate 
+> about technology and learning even more 
+> about development. 💻🙌🚀*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![divider]([https://i.postimg.cc/D0pmvTHx/readme-divider.png](https://i.postimg.cc/sfQXd1nV/Divider-Line.png))
+
+## Find me around the web 🌎:
+
+- 💼 | Contact me on <a href="https://www.linkedin.com/in/andrefv3/">LinkedIn</a>
+- ✍🏻 | See my Portfolio <a href="https://www.behance.net/Andrefv1">Behance</a>
+
+## About me 👀:
+
+```js
+const andresDEV = {
+    skills: [ JavaScript, HTML, CSS, SEO ],
+    tools: [ Vue, Git, Figma, Wordpress ],
+    gas: [☕, 🏋🏽‍♂️, 🧑🏻‍💻, 📚 ]
+}
+```
+![divider]([https://i.postimg.cc/D0pmvTHx/readme-divider.png](https://i.postimg.cc/sfQXd1nV/Divider-Line.png))
