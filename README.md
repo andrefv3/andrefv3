@@ -7,7 +7,7 @@
 > about technology and learning even more 
 > about development. 💻🙌🚀*
 
-![divider](https://slotchine.com/static/Github/Divider-line.png)
+![divider](https://slotchine.com/static/Github/Divider-Line.png)
 
 ### Find me around the web 🌎:
 
