@@ -5,7 +5,6 @@
 > as a Front-end developer and web designer, passionate 
 > about technology and learning even more 
 > about development. 💻🙌🚀*
-
 <pre>  
 🪐 About me
   
