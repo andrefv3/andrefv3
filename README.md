@@ -5,8 +5,7 @@
 > as a Front-end developer and web designer, passionate 
 > about technology and learning even more 
 > about development. 💻🙌🚀*
-<pre>  
-🪐 About me
+<pre>🪐 About me
   
 🌍  I'm based in Colombia
 🖥️  See my portfolio <a href="http://be.net/andrefv1">here</a>
