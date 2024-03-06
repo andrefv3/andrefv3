@@ -5,7 +5,7 @@
 > about technology and learning even more 
 > about development. 💻🙌🚀*
 
-*   🌍  I'm based in Colombia
-*   🖥️  See my portfolio [here](https://andresvega.dev/)
+*   🌍  I'm based in Poland
+*   🖥️  See my portfolio [here](https://andresvega.dev/){:target="_blank"}
 *   🚀  I'm currently working as a freelancer
-*   🧠  I'm learning Reactjs
+*   🧠  I'm learning Machine Learning
