@@ -6,6 +6,6 @@
 > about development. 💻🙌🚀*
 
 *   🌍  I'm based in Poland
-*   🖥️  See my portfolio [here](https://andresvega.dev/){:target="_blank"}
+*   🖥️  See my portfolio <a href="https://andresvega.dev/" target="_blank">here</a>.
 *   🚀  I'm currently working as a freelancer
 *   🧠  I'm learning Machine Learning
