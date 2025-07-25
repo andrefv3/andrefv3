@@ -32,7 +32,7 @@
 
 ### 📫 Contact
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/andresvegadev)  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/andrefv3?locale=en_US)  
 📧 Email: **andrefvc00@gmail.com**
 
 ---
