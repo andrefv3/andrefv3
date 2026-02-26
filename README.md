@@ -1,20 +1,20 @@
 # Hi, I'm Andrés 👋🏻🧑🏻‍💻
 
-> *I'm a Systems Engineering student and passionate Frontend Developer focused on clean, accessible and modern web experiences.*  
-> *Currently working as a freelancer and always eager to learn more about software development and AI. 💻📚🚀*
+> Frontend Developer and Systems Engineering student with professional experience in full-stack development, backend support, and cloud deployments.  
+> Skilled in building clean, modern, and accessible web applications for production environments.
 
 ---
 
-- 🌍  Based in **Spain**
-- 🧠  Currently learning **Machine Learning**
-- 🖥️  Portfolio: [andresvega.dev](https://andresvega.dev)
-- 💼  Open to remote and international collaborations
-- 🚀  Freelance Frontend & Web Developer
+### 🌍 Location
+Poland | Open to remote and international opportunities
 
----
+### 💼 Professional Experience
+- Frontend Development: React, Vue.js, HTML5, CSS3, JavaScript  
+- Backend Support & Cloud: NestJS, PHP, SQL, deployment pipelines  
+- UI/UX & Design Systems: Figma, accessibility-focused interfaces  
+- Agile Workflow & Project Management: Scrum, Jira  
 
 ### 🛠️ Tech Stack
-
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -30,9 +30,10 @@
 
 ---
 
+### 📂 Portfolio
+Visit: [andresvega.dev](https://andresvega.dev)  
+Featuring production-ready projects, code samples, and professional contributions.
+
 ### 📫 Contact
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/andrefv3?locale=en_US)  
-📧 Email: **andrefvc00@gmail.com**
-
----
+- LinkedIn: [andrefv3](https://www.linkedin.com/in/andrefv3?locale=en_US)  
+- Email: andrefvc00@gmail.com
